@@ -1,14 +1,14 @@
-# 👨‍💻 Leonardo Velani
+# 🗿 Leonardo Velani
 
 🎓 Graduando em Engenharia de Software | 🛰️ Analista de Telecomunicações  
-🔒 Entusiasta em **Cybersegurança** e apaixonado por **Python**
+🔒 Entusiasta em **Cybersegurança** e **Python**
 
 ---
 
 ## 📌 Sobre Mim
 
-Atualmente atuo como **Analista de Telecomunicações** em uma empresa de consultoria regulatória para ISPs, com foco em **infraestrutura de redes**, **segurança de switches**, e **gestão de outorgas**.  
-Sou estudante de Engenharia de Software, com forte interesse em desenvolvimento back-end, automações e **cibersegurança aplicada**. Também desenvolvo projetos voltados à análise de vulnerabilidades e ferramentas que integram desenvolvimento com boas práticas de segurança.
+Atualmente atuo como **Analista de Telecomunicações**  com foco em **infraestrutura de redes** e **gestão de regulatória** .  
+Sou estudante de Engenharia de Software, com forte interesse em desenvolvimento back-end, automações e **cibersegurança aplicada**. Também desenvolvo projetos voltados à desenvolvimento de software dentro da minha graduação. Tenho alguns projetos por fora sobre análise de vulnerabilidade, package sniffing, boas práticas em redes.
 
 ---
 
@@ -36,7 +36,7 @@ Sou estudante de Engenharia de Software, com forte interesse em desenvolvimento 
 
 ## 🚀 Python
 
-- Desenvolvimento de **scripts de automação** para redes e sistemas
+- Desenvolvimento de **scripts de automação**
 - Projetos com **FastAPI**, **Flask** e integração com **PostgreSQL**
 - Interesse contínuo em **Data Science** e **Machine Learning**
 - Experimentos com **segurança ofensiva** (análise de keyloggers, e-mails maliciosos, etc.)
